@@ -1,0 +1,2 @@
+# django-poll
+learning django
